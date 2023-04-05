@@ -3,10 +3,10 @@
 
 ## **ÍNDICE**
 
-* [1. INTRO](https://github.com/amandareaaa/clonacion_google/edit/main/README.md#1-intro)
-* [2. Qué contruí](https://github.com/amandareaaa/clonacion_google/edit/main/README.md#2-qué-contru%C3%AD)
-* [3. Objetivo del Proyecto](https://github.com/amandareaaa/clonacion_google/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. Link al Demo](https://github.com/amandareaaa/clonacion_google/edit/main/README.md#4-link-a-demo)
+* [1. INTRO](https://github.com/amandareaaa/clonacion_google/blob/main/README.md#1-intro)
+* [2. Qué contruí](https://github.com/amandareaaa/clonacion_google/blob/main/README.md#2-qué-contru%C3%AD)
+* [3. Objetivo del Proyecto](https://github.com/amandareaaa/clonacion_google/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link al Demo](https://github.com/amandareaaa/clonacion_google/blob/main/README.md#4-link-a-demo)
 
 ****
 
